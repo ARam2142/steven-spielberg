@@ -1,0 +1,60 @@
+body {
+
+    background-color: silver;
+    color: black;
+    padding: 5px;
+    font-family: Arial;
+    
+    }
+    
+    .portrait {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1 {
+    
+    font-family: Verdana;
+    font-size: 35px;
+    font-style: italic;
+    color: blue;
+    background-color: white;
+    text-align: center;
+    
+    }
+
+    
+    p {
+    
+    font-family: Verdana;
+    font-size: 18px;
+    font-style: italic;
+    
+    }
+    
+    h2 {
+    
+    font-family: Verdana;
+    font-size: 30px;
+    
+    }
+    
+    h1, h2 {
+    
+    border-bottom:1px solid black;
+    
+    }
+    
+    
+    h4 {
+    
+    font-family: Verdana;
+    font-size: 20px;
+    
+    }
+
+    figcaption {
+        text-align: center;
+    }
+    
+    
